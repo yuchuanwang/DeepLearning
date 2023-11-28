@@ -9,4 +9,6 @@
 
 5. [Image Classification with ResNet, Transfer Learning and Fine Tune](https://github.com/yuchuanwang/DeepLearning/blob/main/ImageClassificationWithResNet_CheckPoint.py)
 
+6. [Text Classification with LSTM/RNN](https://github.com/yuchuanwang/DeepLearning/blob/main/TextClassificationWithLSTM.py)
+
    
