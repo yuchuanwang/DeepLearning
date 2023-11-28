@@ -1,4 +1,4 @@
-# Deep Learning Examples
+# Deep Learning Projects and Examples
 1. [Linear Regression with PyTorch](https://github.com/yuchuanwang/DeepLearning/blob/main/LinearRegression.py)
 
 2. [Poly Regression with PyTorch](https://github.com/yuchuanwang/DeepLearning/blob/main/PolyRegression.py)
