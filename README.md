@@ -11,4 +11,11 @@
 
 6. [Text Classification with LSTM/RNN](https://github.com/yuchuanwang/DeepLearning/blob/main/TextClassificationWithLSTM.py)
 
+7. [Captcha Hacker](https://github.com/yuchuanwang/DeepLearning/blob/main/CaptchaHacker.py)
+
+   It should be one of the most accurate models on the Internet. 
+
+   With this model, you can recognize the captcha with various length of chars, the accuracy is more than 98%.
+   
+
    
