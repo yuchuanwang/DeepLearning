@@ -17,5 +17,6 @@
 
    With this model, you can recognize the captcha with various length of chars, the accuracy is more than 98%.
    
-
+8. [RAG with Llama 3 and LangChain](https://github.com/yuchuanwang/DeepLearning/blob/main/Llama3_RAG.py)
+   
    
